@@ -1,1 +1,1 @@
-si1entgr0-image是博客图片库
+这是 si1entgr0-github.io 博客图片库
